@@ -33,11 +33,11 @@ msgstr "El slug es usado para la URL de notificaciones de esta cuenta."
 msgid "client id"
 msgstr "id de cliente"
 
-msgid "The APP_ID given by MercadoPago."
-msgstr "El APP_ID dato por MercadoPago."
+msgid "The  given by MercadoPago."
+msgstr "El CLIENT_ID dato por MercadoPago."
 
-msgid "The SECRET_KEY given by MercadoPago."
-msgstr "El SECRET_KEY dado por MercadoPago."
+msgid "The CLIENT_SECRET given by MercadoPago."
+msgstr "El CLIENT_SECRET dado por MercadoPago."
 
 msgid "sandbox"
 msgstr "sandbox"

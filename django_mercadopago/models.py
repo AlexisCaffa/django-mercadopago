@@ -45,12 +45,12 @@ class Account(models.Model):
     app_id = models.CharField(
         _('client id'),
         max_length=16,
-        help_text=_('The APP_ID given by MercadoPago.'),
+        help_text=_('The CLIENT_ID given by MercadoPago.'),
     )
     secret_key = models.CharField(
         _('secret key'),
         max_length=32,
-        help_text=_('The SECRET_KEY given by MercadoPago.'),
+        help_text=_('The CLIENT_SECRET given by MercadoPago.'),
     )
     sandbox = models.BooleanField(
         _('sandbox'),
